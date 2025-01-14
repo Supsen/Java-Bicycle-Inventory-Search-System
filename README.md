@@ -38,7 +38,6 @@ This is a Java-based application designed to manage a bicycle inventory, allowin
 - Limited error handling in `BicycleDriver.java` for non-integer inputs.
 
 ## Suggested Improvements
-- Fix the `toString()` error in `Bicycle.java`.
 - Improve input validation and error handling for a better user experience.
 
 ## License
